@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<KeymanDeveloperProjectUser>
+  <ViewState>
+    <tab>1</tab>
+    <showhelp>1</showhelp>
+    <path>C:\Users\batbo\Documents\Keyman Developer\Projects\bb\bb.kpj</path>
+    <file ID="id_MRU0" Expanded="1"/>
+    <file ID="id_19c7e9441ae061fd153a76413c633160" Expanded="1"/>
+  </ViewState>
+  <FileStates>
+    <FileState>
+      <ID>id_19c7e9441ae061fd153a76413c633160</ID>
+      <FullPath>C:\Users\batbo\Documents\Keyman Developer\Projects\bb\source\bb.kmn</FullPath>
+      <IDEState>
+        <LayoutDisplay102Key>0</LayoutDisplay102Key>
+        <DebugDefaultFont>1</DebugDefaultFont>
+        <DebugFont>Consolas|-9|   |0</DebugFont>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+      <Debug>True</Debug>
+    </FileState>
+    <FileState>
+      <ID>id_8bd975f9a2d58bf694322acb2d0bdad9</ID>
+      <FullPath>C:\Users\batbo\Documents\Keyman Developer\Projects\bb\source\bb.kps</FullPath>
+      <IDEState>
+        <CodeFont>Consolas|-9|   |0</CodeFont>
+        <CharFont>Consolas|-9|   |0</CharFont>
+      </IDEState>
+    </FileState>
+    <FileState>
+      <ID>id_ede98e4633e239f933cbfd1f4e1b766c</ID>
+      <FullPath>C:\Users\batbo\Documents\Keyman Developer\Projects\bb\HISTORY.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_53e892b8b41cc4caece1cfd5ef21d6e7</ID>
+      <FullPath>C:\Users\batbo\Documents\Keyman Developer\Projects\bb\LICENSE.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_0730bb7c2e8f9ea2438b52e419dd86c9</ID>
+      <FullPath>C:\Users\batbo\Documents\Keyman Developer\Projects\bb\README.md</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_de57704eeeacab1df7dc2823369df284</ID>
+      <FullPath>C:\Users\batbo\Documents\Keyman Developer\Projects\bb\bb.keyboard_info</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_359d5cf1aa5787fd7934e0d7fde4a7dc</ID>
+      <FullPath>C:\Users\batbo\Documents\Keyman Developer\Projects\bb\source\..\build\bb.kmx</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_96b80af3614d0986759b9c4cdd43ae58</ID>
+      <FullPath>C:\Users\batbo\Documents\Keyman Developer\Projects\bb\source\..\build\bb.kvk</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
+      <FullPath>C:\Users\batbo\Documents\Keyman Developer\Projects\bb\source\welcome.htm</FullPath>
+    </FileState>
+    <FileState>
+      <ID>id_8da344c4cea6f467013357fe099006f5</ID>
+      <FullPath>C:\Users\batbo\Documents\Keyman Developer\Projects\bb\source\readme.htm</FullPath>
+    </FileState>
+  </FileStates>
+  <MRU>
+    <File>
+      <ID>id_MRU0</ID>
+      <Filename>bb.kmn</Filename>
+      <FileType>.kmn</FileType>
+      <FullPath>C:\Users\batbo\Documents\Keyman Developer\Projects\bb\source\bb.kmn</FullPath>
+    </File>
+    <File>
+      <ID>id_MRU1</ID>
+      <Filename>bb.kps</Filename>
+      <FileType>.kps</FileType>
+      <FullPath>C:\Users\batbo\Documents\Keyman Developer\Projects\bb\source\bb.kps</FullPath>
+    </File>
+  </MRU>
+</KeymanDeveloperProjectUser>
