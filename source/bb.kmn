@@ -10,6 +10,7 @@ store(&VISUALKEYBOARD) 'bb.kvks'
 begin Unicode > use(main)
 
 group(main) using keys
++ [SHIFT K_4] > '₮'
 + [SHIFT K_P] > 'П'
 + [SHIFT K_O] > 'О'
 + [SHIFT K_I] > 'И'
